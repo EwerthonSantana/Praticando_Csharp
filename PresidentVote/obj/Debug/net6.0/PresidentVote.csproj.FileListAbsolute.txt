@@ -1,0 +1,15 @@
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\bin\Debug\net6.0\PresidentVote.exe
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\bin\Debug\net6.0\PresidentVote.deps.json
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\bin\Debug\net6.0\PresidentVote.runtimeconfig.json
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\bin\Debug\net6.0\PresidentVote.dll
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\bin\Debug\net6.0\PresidentVote.pdb
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.csproj.AssemblyReference.cache
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.AssemblyInfoInputs.cache
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.AssemblyInfo.cs
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.csproj.CoreCompileInputs.cache
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.dll
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\refint\PresidentVote.dll
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.pdb
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\PresidentVote.genruntimeconfig.cache
+C:\Users\ewert\OneDrive\Área de Trabalho\projetos\C#\PresidentVote\PresidentVote\obj\Debug\net6.0\ref\PresidentVote.dll
